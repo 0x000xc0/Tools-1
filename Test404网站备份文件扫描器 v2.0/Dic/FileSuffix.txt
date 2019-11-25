@@ -1,0 +1,5 @@
+.zip
+.rar
+.tar.gz
+.tgz
+.sql

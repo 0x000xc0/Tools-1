@@ -1,0 +1,12 @@
+backup
+db
+data
+web
+wwwroot
+database
+www
+code
+test
+admin
+user
+sql

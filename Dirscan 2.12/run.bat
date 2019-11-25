@@ -1,0 +1,1 @@
+java -jar "Scandir 2.12.jar"

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <domain />
+  <threadSize>1000</threadSize>
+  <scanMode>1</scanMode>
+  <method>HEAD</method>
+  <url />
+  <timeOut>30</timeOut>
+  <scanWAF>false</scanWAF>
+  <getBanner>false</getBanner>
+  <ext>自定后缀</ext>
+  <sleepTime>0</sleepTime>
+  <request />
+  <key />
+  <showCodes>404 503 500 400</showCodes>
+  <show>1</show>
+  <isExists>0</isExists>
+  <getHeaderFirstLine>true</getHeaderFirstLine>
+  <dicType>0</dicType>
+  <contentSelect>2</contentSelect>
+  <contentLength>-2</contentLength>
+  <contentType />
+</Config>
